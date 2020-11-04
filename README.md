@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ian Githungo
 
-## I'm a Developer
+## I'm a node.js and Rust Developer
 
 - 🔭 I’m currently working on Fantastic Tutors and ExJpConections
 - 🌱 I’m currently learning Rust and React
