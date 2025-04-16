@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Ian Githungo
 
-#### I'm a node.js and Rust Developer
+#### I'm a Scala and Rust Developer
 
-- 🌱 I’m currently learning Rust and React
-- 💬 Ask me about Rust, Restful API's, node.js 
+- 🌱 I’m currently learning how to leverge the power of reactive systems and also building large scale data pipelines
+- 💬 Ask me about Scala, Reactivity, Akka, Actors, Kafka, Rust, Restful API's, node.js 
 - 📫 How to reach me: githungoian53@gmail.com
 
 ## Connect with me:
